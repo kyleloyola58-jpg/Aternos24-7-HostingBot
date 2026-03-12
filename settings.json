@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "kyleandaasutoshbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "kyleandaasutosh.aternos.me
+",
+    "port": 42813,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "yap",
+        "thanks",
+        "Im a bot btw"
       ]
     },
     "chat-log": true,
@@ -65,7 +66,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
